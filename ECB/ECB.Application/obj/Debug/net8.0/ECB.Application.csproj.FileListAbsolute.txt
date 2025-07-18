@@ -1,0 +1,15 @@
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\bin\Debug\net8.0\ECB.Application.deps.json
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\bin\Debug\net8.0\ECB.Application.dll
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\bin\Debug\net8.0\ECB.Application.pdb
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\bin\Debug\net8.0\ECB.Domain.dll
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\bin\Debug\net8.0\ECB.Domain.pdb
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Application.csproj.AssemblyReference.cache
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Application.AssemblyInfoInputs.cache
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Application.AssemblyInfo.cs
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Application.csproj.CoreCompileInputs.cache
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Appl.9EAF0C6F.Up2Date
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Application.dll
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\refint\ECB.Application.dll
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ECB.Application.pdb
+C:\Users\DKroustalis\OneDrive - Qualco SA\final final\ECB\ECB.Application\obj\Debug\net8.0\ref\ECB.Application.dll
